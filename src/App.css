@@ -62,6 +62,11 @@ h1 {
   color: #ffffff4d;
 }
 
+form.TodoFrom {
+  width: 100%;
+  display: flex;
+}
+
 .todo-btn {
   background: #ffac14;
   color: #fff;
@@ -108,7 +113,7 @@ h1 {
 @media (max-width : 450px){
 
   .TodoWrapper{
-    width: 80%;
+    width: 70%;
   }
 
 }
