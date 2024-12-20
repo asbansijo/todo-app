@@ -9,7 +9,7 @@
 
 body {
   background: #222221;
-  background-image: url("D:\react projects\todo-app\src\assets\istockphoto-1409540610-612x612.jpg");
+  background-image: url("./assets/istockphoto-1409540610-612x612.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
