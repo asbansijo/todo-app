@@ -105,3 +105,10 @@ h1 {
   cursor: pointer;
 }
  
+@media (max-width : 450px){
+
+  .TodoWrapper{
+    width: 80%;
+  }
+
+}
